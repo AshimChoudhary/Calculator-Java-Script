@@ -1,1 +1,1 @@
-# Color-Flipper
+# Calculator Using Java Scipt
